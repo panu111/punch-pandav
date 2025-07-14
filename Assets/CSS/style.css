@@ -72,3 +72,40 @@ font-family: 'Infinite-16', sans-serif;
     transform: scale(1.05);
   }
 
+/* payment css */
+.month{
+    position: relative;
+    left: 42%;
+    bottom: 109%;
+    background-color: rgb(248, 252, 248);
+    color: black;
+    width: 400px;
+}
+.month:hover{
+    background-color: green;
+}
+.aomunt{
+    position: relative;
+    top:90%;
+}
+.one{
+    background-color: white;
+    color: black;
+    width: 400px;
+}
+.one:hover{
+    background-color: green;
+}
+.coustome{
+    position: relative;
+    left: 17%;
+}
+.coustomer:hover{
+    background-color: green;
+}
+.input{
+    width: 350px;
+}
+.scanner{
+width:200px;
+}
